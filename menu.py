@@ -168,7 +168,7 @@ cuenta2.mostrar()
     
    elif elegir_ejercicio == 3:
       print("""
-import match
+import math
 
 class Fraccion:
     def __init__(self, numerador, denominador):
